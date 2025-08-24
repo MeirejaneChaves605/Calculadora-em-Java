@@ -5,4 +5,4 @@ Este é um projeto de calculadora simples escrito em Java, que permite realizar 
 - **Subtração**: Subtrai um número de outro.
 - **Multiplicação**: Multiplica dois números.
 - **Divisão**: Divide um número por outro, com tratamento para divisão por zero.
-
+- **Adição**: Soma de dois números.
